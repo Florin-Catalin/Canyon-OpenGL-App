@@ -1,0 +1,78 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Campfire_Maya_2016:phongE3SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd camp_diffuse.png
+map_Bump camp_normal.jpg
+map_Ks camp_specular.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd camp_diffuse.png
+map_Bump camp_normal.jpg
+map_Ks camp_specular.png
+
+newmtl phongE1SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd rocks_diffuse.png
+map_Bump rocks_normal.jpg
+map_Ks rocks_specular.png
+
+newmtl phongE3SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd woodsground_diffuse.png
+map_Bump woodsground_normal.png
+map_Ks woodsground_specular.png
+
+newmtl phongE4SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd utensilrope_diffuse.png
+map_Bump utensilrope_normal.png
+map_Ks utensilrope_specular.png
+
+newmtl water_tank_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd water_tank_col.png

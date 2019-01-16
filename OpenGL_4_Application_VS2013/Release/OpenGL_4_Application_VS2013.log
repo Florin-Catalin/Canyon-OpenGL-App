@@ -1,0 +1,37 @@
+﻿  OpenGL_4_Application_VS2013.cpp
+c:\users\florin\desktop\gps_project\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\florin\desktop\gps_project\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(208): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\florin\desktop\gps_project\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(279): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\florin\desktop\gps_project\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(289): warning C4305: '-=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  4 of 2149 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+SkyBox.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Florin\Desktop\GPS_PROJECT\Release\vc120.pdb'; linking object as if no debug info
+  OpenGL_4_Application_VS2013.vcxproj -> C:\Users\Florin\Desktop\GPS_PROJECT\Release\OpenGL_4_Application_VS2013.exe
